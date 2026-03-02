@@ -4,14 +4,22 @@ The goal of this project isn’t just to “solve questions.” It’s to develo
 Each problem is designed to improve:
 
 • Pattern recognition
+
 • Mathematical clarity
+
 • Handling edge cases properly
+
 • Thinking about optimization instead of brute force
+
 • Breaking a problem into smaller logical steps
 
 This repository is especially helpful for:
 
+
 • Beginners who are starting their DSA journey
+
 • Students preparing for coding interviews
+
 • Developers who want to strengthen core fundamentals
+
 • Anyone interested in competitive programming
